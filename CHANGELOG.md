@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="0.3.1"></a>
+## [0.3.1](https://www.github.com/mrdevrobot/SagaR/releases/tag/v0.3.1) (2026-11-12)
+
+### Bug Fixes
+
+* include README.md in the sub-package nupkgs ([bd63da9](https://www.github.com/mrdevrobot/SagaR/commit/bd63da9fc75e7a0ac8164ba65b211565d6aac2da))
+
 <a name="0.3.0"></a>
 ## [0.3.0](https://www.github.com/mrdevrobot/SagaR/releases/tag/v0.3.0) (2026-11-12)
 
