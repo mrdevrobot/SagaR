@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="0.3.0"></a>
+## [0.3.0](https://www.github.com/mrdevrobot/SagaR/releases/tag/v0.3.0) (2026-11-12)
+
+### Features
+
+* target net10.0 and net11.0, drop end-of-life frameworks ([af68b18](https://www.github.com/mrdevrobot/SagaR/commit/af68b184257aebafbfd30c43965cf6777aa3964d))
+
 <a name="0.2.1"></a>
 ## [0.2.1](https://www.github.com/lucafabbri/SagaR/releases/tag/v0.2.1) (2025-09-09)
 
