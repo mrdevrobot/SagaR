@@ -25,4 +25,8 @@
     <ProjectReference Include="..\SagaR\SagaR.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="../README.md" Pack="true" PackagePath="\" />
+  </ItemGroup>
+
 </Project>
